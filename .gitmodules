@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DistributionUtils"]
+	path = DistributionUtils
+	url = https://github.com/cran/DistributionUtils
+	shallow = true
+	registered = true
+[submodule "HyperbolicDist"]
+	path = HyperbolicDist
+	url = https://github.com/cran/HyperbolicDist
+	shallow = true
+	registered = true
+[submodule "NormalLaplace"]
+	path = NormalLaplace
+	url = https://github.com/cran/NormalLaplace
+	shallow = true
+	registered = true
+[submodule "VarianceGamma"]
+	path = VarianceGamma
+	url = https://github.com/cran/VarianceGamma
+	shallow = true
+	registered = true
