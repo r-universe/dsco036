@@ -8,9 +8,6 @@
 [submodule "HyperbolicDist"]
 	path = HyperbolicDist
 	url = https://github.com/cran/HyperbolicDist
-[submodule "NormalLaplace"]
-	path = NormalLaplace
-	url = https://github.com/cran/NormalLaplace
 [submodule "VarianceGamma"]
 	path = VarianceGamma
 	url = https://github.com/cran/VarianceGamma
